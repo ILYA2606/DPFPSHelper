@@ -3,8 +3,7 @@ DPFPSHelper
 
 English
 ===========
-Testing FPS for Objective-C Methods
-
+Testing FPS for Objective-C Methods. 
 Getting such data as:
 - Time of execution (in seconds)
 - FPS (number of possible calls per second)
@@ -33,8 +32,11 @@ Russian
 ===========
 Тестирование FPS для Objective-C методов.
 Получение таких данных как: 
+
 - Время выполнение метода (в секундах), 
+- 
 - FPS (количество возможных вызовов в секунду), 
+- 
 - Среднее FPS (среднее арифметическое между всеми FPS данного метода)
 
 Простое использование:
@@ -52,6 +54,10 @@ Russian
 В лог выведется результат. Например:
 
 Method 'myMethodWithParameter:' info: 
+
 Time working: 0.008602 
+
 FPS = 116.3 
+
 avgFPS = 96.6
+
