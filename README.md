@@ -17,7 +17,7 @@ Have a method
   ... 
 }
 
-To call this method with the change of time of its execution, it is enough to simply write a single line
+To call this method with the calculate of time of its execution, it is enough to simply write a single line
 
 [DPFPSHelper getFPSMethod: @ "myMethodWithParameter:" withTarget: self withObject: @ "XXX"];
 
@@ -45,7 +45,7 @@ Russian
   ...
 }
 
-Для того, чтобы вызвать этот метод с изменением времени его выполнения, достаточно просто написать одну строчку
+Для того, чтобы вызвать этот метод с измерением времени его выполнения, достаточно просто написать одну строчку
 
 [DPFPSHelper getFPSMethod:@"myMethodWithParameter:" withTarget:self withObject:@"XXX"];
 
