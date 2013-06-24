@@ -24,8 +24,8 @@ To call this method with the change of time of its execution, it is enough to si
 In the log displays the results. For example:
 
 Method 'myMethodWithParameter:' info: 
-Time working: 0.008602 
-FPS = 116.3 
+Time working: 0.008602; 
+FPS = 116.3; 
 avgFPS = 96.6
 
 Russian
@@ -34,9 +34,7 @@ Russian
 Получение таких данных как: 
 
 - Время выполнение метода (в секундах), 
-- 
 - FPS (количество возможных вызовов в секунду), 
-- 
 - Среднее FPS (среднее арифметическое между всеми FPS данного метода)
 
 Простое использование:
@@ -55,9 +53,7 @@ Russian
 
 Method 'myMethodWithParameter:' info: 
 
-Time working: 0.008602 
-
-FPS = 116.3 
-
+Time working: 0.008602; 
+FPS = 116.3; 
 avgFPS = 96.6
 
